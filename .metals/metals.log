@@ -1,0 +1,36 @@
+2026.04.21 17:10:10 INFO  Started: Metals version 1.6.7 in folders '/Users/csuarez/Documents/personal/EPN/2026A/ValidacionSoftware/workspace/tdd-practice-01' for client Visual Studio Code 1.116.0.[0m
+2026.04.21 17:10:10 INFO  Memory monitor started[0m
+2026.04.21 17:10:10 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.[0m
+2026.04.21 17:10:11 INFO  no build target found for /Users/csuarez/Documents/personal/EPN/2026A/ValidacionSoftware/workspace/tdd-practice-01/src/main/java/ec/edu/epn/TddPractice01Application.java. Using fallback presentation compiler.[0m
+Apr 21, 2026 5:10:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Apr 21, 2026 5:10:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.04.21 17:10:11 INFO  no build target found for /Users/csuarez/Documents/personal/EPN/2026A/ValidacionSoftware/workspace/tdd-practice-01/src/main/java/ec/edu/epn/TddPractice01Application.java. Using fallback presentation compiler.[0m
+Apr 21, 2026 5:10:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Apr 21, 2026 5:10:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.21 17:10:16 INFO  no build target found for /Users/csuarez/Documents/personal/EPN/2026A/ValidacionSoftware/workspace/tdd-practice-01/src/main/java/ec/edu/epn/TddPractice01Application.java. Using fallback presentation compiler.[0m
+2026.04.21 17:10:17 INFO  no build target found for /Users/csuarez/Documents/personal/EPN/2026A/ValidacionSoftware/workspace/tdd-practice-01/src/main/java/ec/edu/epn/TddPractice01Application.java. Using fallback presentation compiler.[0m
+2026.04.21 17:10:20 INFO  no build target found for /Users/csuarez/Documents/personal/EPN/2026A/ValidacionSoftware/workspace/tdd-practice-01/src/main/java/ec/edu/epn/TddPractice01Application.java. Using fallback presentation compiler.[0m
+2026.04.21 17:10:26 INFO  no build target found for /Users/csuarez/Documents/personal/EPN/2026A/ValidacionSoftware/workspace/tdd-practice-01/src/main/java/ec/edu/epn/TddPractice01Application.java. Using fallback presentation compiler.[0m
+2026.04.21 17:10:27 INFO  no build target found for /Users/csuarez/Documents/personal/EPN/2026A/ValidacionSoftware/workspace/tdd-practice-01/src/main/java/ec/edu/epn/TddPractice01Application.java. Using fallback presentation compiler.[0m
+2026.04.21 17:11:32 INFO  no build target found for /Users/csuarez/Documents/personal/EPN/2026A/ValidacionSoftware/workspace/tdd-practice-01/src/main/java/ec/edu/epn/TddPractice01Application.java. Using fallback presentation compiler.[0m
+2026.04.21 17:11:32 INFO  no build target found for /Users/csuarez/Documents/personal/EPN/2026A/ValidacionSoftware/workspace/tdd-practice-01/src/main/java/ec/edu/epn/model/Category.java. Using fallback presentation compiler.[0m
+Apr 21, 2026 5:11:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24
+2026.04.21 17:11:32 INFO  no build target found for /Users/csuarez/Documents/personal/EPN/2026A/ValidacionSoftware/workspace/tdd-practice-01/src/main/java/ec/edu/epn/model/Category.java. Using fallback presentation compiler.[0m
+2026.04.21 17:11:32 INFO  no build target found for /Users/csuarez/Documents/personal/EPN/2026A/ValidacionSoftware/workspace/tdd-practice-01/src/main/java/ec/edu/epn/model/Category.java. Using fallback presentation compiler.[0m
+2026.04.21 17:11:37 INFO  no build target found for /Users/csuarez/Documents/personal/EPN/2026A/ValidacionSoftware/workspace/tdd-practice-01/src/main/java/ec/edu/epn/model/Category.java. Using fallback presentation compiler.[0m
+2026.04.21 17:11:37 INFO  no build target found for /Users/csuarez/Documents/personal/EPN/2026A/ValidacionSoftware/workspace/tdd-practice-01/src/main/java/ec/edu/epn/model/Category.java. Using fallback presentation compiler.[0m
+2026.04.21 17:11:37 INFO  no build target found for /Users/csuarez/Documents/personal/EPN/2026A/ValidacionSoftware/workspace/tdd-practice-01/src/main/java/ec/edu/epn/model/Category.java. Using fallback presentation compiler.[0m
+2026.04.21 17:11:37 INFO  no build target found for /Users/csuarez/Documents/personal/EPN/2026A/ValidacionSoftware/workspace/tdd-practice-01/src/main/java/ec/edu/epn/model/Category.java. Using fallback presentation compiler.[0m
+2026.04.21 17:11:37 INFO  no build target found for /Users/csuarez/Documents/personal/EPN/2026A/ValidacionSoftware/workspace/tdd-practice-01/src/main/java/ec/edu/epn/model/Category.java. Using fallback presentation compiler.[0m
+2026.04.21 17:11:37 INFO  no build target found for /Users/csuarez/Documents/personal/EPN/2026A/ValidacionSoftware/workspace/tdd-practice-01/src/main/java/ec/edu/epn/model/Category.java. Using fallback presentation compiler.[0m
+2026.04.21 17:11:54 INFO  no build target found for /Users/csuarez/Documents/personal/EPN/2026A/ValidacionSoftware/workspace/tdd-practice-01/src/main/java/ec/edu/epn/model/Category.java. Using fallback presentation compiler.[0m
+2026.04.21 17:11:54 INFO  no build target found for /Users/csuarez/Documents/personal/EPN/2026A/ValidacionSoftware/workspace/tdd-practice-01/src/main/java/ec/edu/epn/model/Category.java. Using fallback presentation compiler.[0m
+2026.04.21 17:40:13 INFO  no build target found for /Users/csuarez/Documents/personal/EPN/2026A/ValidacionSoftware/workspace/tdd-practice-01/src/main/java/ec/edu/epn/model/Category.java. Using fallback presentation compiler.[0m
+2026.04.21 17:46:17 INFO  no build target found for /Users/csuarez/Documents/personal/EPN/2026A/ValidacionSoftware/workspace/tdd-practice-01/src/main/java/ec/edu/epn/model/Category.java. Using fallback presentation compiler.[0m
+2026.04.21 17:46:17 WARN  no build target for: /Users/csuarez/Documents/personal/EPN/2026A/ValidacionSoftware/workspace/tdd-practice-01/src/main/java/ec/edu/epn/model/Category.java[0m
+2026.04.21 17:46:17 INFO  no build target found for /Users/csuarez/Documents/personal/EPN/2026A/ValidacionSoftware/workspace/tdd-practice-01/src/main/java/ec/edu/epn/model/Category.java. Using fallback presentation compiler.[0m
